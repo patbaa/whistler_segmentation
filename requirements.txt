@@ -1,0 +1,7 @@
+mmdet==2.14.0
+numpy==1.19.2
+pycocotools==2.0.2
+pandas==1.15.5
+opencv-python==4.5.3.56
+pillow==8.1.0
+scikit-image==0.17.2

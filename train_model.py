@@ -1,1 +1,0 @@
-python3 /home/pataki/mmdetection/tools/train.py /home/pataki/whistler_segmentation/modeling/configs.py --gpu-ids 1
